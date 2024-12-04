@@ -1,3 +1,3 @@
 # demo
 
-some note
+some note!
